@@ -1,0 +1,21 @@
+{
+    "bayi" : {
+        "normal" : "19.900",
+        "diskon" : "14.900"
+    },
+
+    "pelajar" : {
+        "normal" : "46.900",
+        "diskon" : "23.450"
+    },
+
+    "personal" : {
+        "normal" : "58.900",
+        "diskon" : "38.900"
+    },
+
+    "bisnis" : {
+        "normal" : "109.900",
+        "diskon" : "65.900"
+    }
+}
